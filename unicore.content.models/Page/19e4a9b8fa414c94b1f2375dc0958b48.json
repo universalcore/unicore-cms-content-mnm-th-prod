@@ -6,12 +6,12 @@
   "primary_category": "db4d4b04f1724d8ea8c20aa717c946c5", 
   "created_at": "2015-07-16T10:17:32+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-16T10:27:30.733127+00:00", 
+  "modified_at": "2015-07-16T10:32:39.575940+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 4, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "what-malaria", 
   "uuid": "19e4a9b8fa414c94b1f2375dc0958b48"
